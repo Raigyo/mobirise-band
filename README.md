@@ -10,7 +10,7 @@
 
 * * *
 
-*Mobirise is a simple website builder - just drop site elements to your page, add content and style it to look the way you like. *
+*Mobirise is a simple website builder - just drop site elements to your page, add content and style it to look the way you like.*
 
 *Mobirise offers 1700+ amazing website blocks that include sliders, galleries, article blocks, counters, accordions, video, animated text, live filtered tables, shop, contact forms, lightbox, testimonials, timelines, google map, progress bars and more.* 
 
