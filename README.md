@@ -17,4 +17,5 @@
 *Blocks are designed considering the latest trends in web design, and they are flexible and full of customizing options.*
 
 Band: [Deleritas](https://www.facebook.com/deleritas/)
+
 Pictures credits: Philippe Dophagne, Marcel Melin, Patrice Hoerner
