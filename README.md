@@ -16,6 +16,12 @@
 
 *Blocks are designed considering the latest trends in web design, and they are flexible and full of customizing options.*
 
-Band: [Deleritas](https://www.facebook.com/deleritas/)
+Band/credit: [Deleritas](https://www.facebook.com/deleritas/)
 
 Pictures credits: Philippe Dophagne, Marcel Melin, Patrice Hoerner
+
+##Warning:## 
+
+Pictures, sounds and video cannot be reused without the agreement of the rights holders.
+
+This site is for demonstration purpose.
