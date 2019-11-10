@@ -124,6 +124,9 @@
               "width": "100vw",
               "height": "100vh"
             },
+            ".media-container-row": {
+              "padding-top": "150px"
+            },
             "@media (max-width: 991px)": {
               ".mbr-figure, img": {
                 "max-height": "300px",
@@ -136,6 +139,9 @@
               ".fullsize": {
                 "width": "100%",
                 "height": "100%"
+              },
+              ".media-container-row": {
+                "padding-top": "5px"
               }
             }
           },
@@ -350,6 +356,11 @@
             "@media (max-width: 768px)": {
               ".image-block": {
                 "width": "100% !important"
+              }
+            },
+            "@media (max-width: 991px)": {
+              ".mbr-figure": {
+                "padding-top": "15px"
               }
             }
           },
