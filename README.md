@@ -3,7 +3,7 @@
 
 *November 2019*
 
-> 🔨 Showcase project made with [Mobirise Free Website Builder](https://mobirise.com/fr/)
+> 🔨 Showcase project made with [Mobirise Free Website Builder](https://mobirise.com/fr/) and custom CSS in some blocks /sections
 
 [Githubpage](https://raigyo.github.io/mobirise-band/)
 
